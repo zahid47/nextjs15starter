@@ -8,3 +8,8 @@
 - eslint + prettier + tailwind plugins
 - tanstack query
 - hono js
+
+## TO ADD
+- tainwind v4
+- Partial Prerendering
+- react compiler
